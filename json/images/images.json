@@ -1,61 +1,282 @@
-[{
-    "id": "1",
-    "url": "https://images.pexels.com/photos/3637538/pexels-photo-3637538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-card"
-},
-{
-    "id": "2",
-    "url": "https://images.pexels.com/photos/13189375/pexels-photo-13189375.jpeg?cs=srgb&dl=pexels-fox-13189375.jpg&fm=jpg",
-    "category": "filter-web"
-},
-{
-    "id": "3",
-    "url": "https://images.pexels.com/photos/212323/pexels-photo-212323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-card"
-},
-{
-    "id": "4",
-    "url": "https://images.pexels.com/photos/3356058/pexels-photo-3356058.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-web"
-},
-{
-    "id": "5",
-    "url": "https://images.pexels.com/photos/6208468/pexels-photo-6208468.jpeg?cs=srgb&dl=pexels-d%C5%BEenis-hasanica-6208468.jpg&fm=jpg",
-    "category": ""
-},
-{
-    "id": "6",
-    "url": "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-card"
-},
-{
-    "id": "7",
-    "url": "https://images.pexels.com/photos/12791096/pexels-photo-12791096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-web"
-},
-{
-    "id": "8",
-    "url": "https://raw.githubusercontent.com/LineageOS/android_vendor_lineage/lineage-19.1/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
-    "category": "filter-app"
-},{
-    "id": "9",
-    "url": "https://images.pexels.com/photos/10947448/pexels-photo-10947448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-card"
-},{
-    "id": "10",
-    "url": "https://images.pexels.com/photos/2463392/pexels-photo-2463392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-app"
-},{
-    "id": "11",
-    "url": "https://images.pexels.com/photos/12791096/pexels-photo-12791096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-app"
-},{
-    "id": "12",
-    "url": "https://images.pexels.com/photos/2695312/pexels-photo-2695312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-card"
-},{
-    "id": "13",
-    "url": "https://images.pexels.com/photos/7440381/pexels-photo-7440381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "category": "filter-web"
-}
+[
+    {
+        "id": "1",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0001.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "2",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0002.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "3",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0003.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "4",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0004.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "5",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0005.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "6",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0006.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "7",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0007.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "8",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0008.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "9",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0009.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "10",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0010.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "11",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0011.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "12",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0012.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "13",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0013.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "14",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0014.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "15",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0015.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "16",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0016.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "17",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0017.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "18",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0018.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "19",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0019.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "20",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0020.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "21",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0021.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "22",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0022.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "23",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0023.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "24",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0024.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "25",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0025.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "26",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0026.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "27",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0027.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "28",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0028.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "29",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0029.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "30",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0030.png",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "31",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0001.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "32",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0002.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "33",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0003.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "34",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0004.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "35",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0005.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "36",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0006.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "37",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0007.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "38",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0008.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "39",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0009.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "40",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0010.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "41",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0011.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "42",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0012.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "43",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0013.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "44",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0014.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "45",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0015.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "46",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0016.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "47",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0017.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "48",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0018.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "49",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0019.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "50",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0020.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "51",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0021.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "52",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0022.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "53",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0023.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "54",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0024.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "55",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0025.jpg",
+        "category": "filter-corrazone"
+    },
+    {
+        "id": "56",
+        "url": "https://raw.githubusercontent.com/basildesigns/api/master/assets/images/corrazone/0026.jpg",
+        "category": "filter-corrazone"
+    }
 ]
